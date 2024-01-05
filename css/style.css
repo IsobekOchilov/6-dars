@@ -141,7 +141,7 @@ button:hover{
     gap: 10px;
 }
 .box12{
-    background-color: rgb(191, 58, 58);
+    background-color: rgb(255, 255, 255);
     width: 360px;
     height: 446px;
     margin-top: 180px;
@@ -175,7 +175,7 @@ i:hover{
     margin-top: 300px;
 }
 .box13{
-    background-color: rgb(191, 58, 58);
+    background-color: rgb(255, 255, 255);
     width: 360px;
     height: 446px;
     margin-top: 180px;
@@ -210,14 +210,14 @@ i:hover{
     margin-left: -1420px;
 }
 .box14{
-    background-color: rgb(191, 58, 58);
+    background-color: rgb(255, 255, 255);
     width: 360px;
     height: 446px;
     margin-top: 200px;
     margin-left: 100px;
 }
 .box15{
-    background-color: rgb(191, 58, 58);
+    background-color: rgb(255, 255, 255);
     width: 360px;
     height: 446px;
     margin-top: -420px;
